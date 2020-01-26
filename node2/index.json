@@ -1,0 +1,27 @@
+{
+  "title": "node2",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "24 hours",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-iframe"
+  },
+  "backend": {
+    "imageid": "javascript",
+    "port": "3000"
+  }
+}
